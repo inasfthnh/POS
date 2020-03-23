@@ -1,0 +1,82 @@
+﻿﻿@{
+    ViewBag.Title = "Variant";
+}
+
+<h2>List of @ViewBag.Title</h2>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title">
+            <input type="button" class="btn btn-success" id="btn-create" value="Create New" />
+        </h3>
+    </div>
+    <div class="panel-body">
+        Loading...
+    </div>
+</div>
+
+<div id="modal1" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Modal title</h4>
+            </div>
+            <div class="modal-body">
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+@section Scripts{
+    <script type="text/javascript">
+        $(document).ready(function () {
+            GetList()
+        })
+
+        function GetList() {
+            $.ajax({
+                url: '@Url.Action("List", "Variant")',
+                type: 'get',
+                success: function (result) {
+                    $(".panel-body").html(result);
+                }
+            });
+        }
+
+        $("#btn-create").click(function () {
+            $.ajax({
+                url: '@Url.Action("Create", "Variant")',
+                type: 'get',
+                success: function (result) {
+                    $(".modal-body").html(result);
+                    $("#modal1").modal("show");
+                }
+            });
+        })
+
+        function GetById(id) {
+            $.ajax({
+                url: '@Url.Action("Edit", "Variant")',
+                type: 'get',
+                data: { id: id },
+                success: function (result) {
+                    $(".modal-body").html(result);
+                    $("#modal1").modal("show");
+                }
+            });
+        }
+
+        function DeleteById(id) {
+            $.ajax({
+                url: '@Url.Action("Delete", "Variant")',
+                type: 'get',
+                data: { id: id },
+                success: function (result) {
+                    $(".modal-body").html(result);
+                    $("#modal1").modal("show");
+                }
+            });
+        }
+    </script>
+}

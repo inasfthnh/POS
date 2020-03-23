@@ -1,0 +1,24 @@
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\POSdatamodel.dll.config
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\POSdatamodel.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\POSdatamodel.pdb
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\EntityFramework.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\EntityFramework.xml
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\obj\Debug\PosDataModel.csprojAssemblyReference.cache
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\obj\Debug\PosDataModel.csproj.CoreCompileInputs.cache
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\obj\Debug\PosDataModel.csproj.CopyComplete
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\obj\Debug\POSdatamodel.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\POSdatamodel\obj\Debug\POSdatamodel.pdb
+C:\DISK D\POS\POSdatamodel\bin\Debug\POSdatamodel.dll.config
+C:\DISK D\POS\POSdatamodel\bin\Debug\POSdatamodel.dll
+C:\DISK D\POS\POSdatamodel\bin\Debug\POSdatamodel.pdb
+C:\DISK D\POS\POSdatamodel\bin\Debug\EntityFramework.dll
+C:\DISK D\POS\POSdatamodel\bin\Debug\EntityFramework.SqlServer.dll
+C:\DISK D\POS\POSdatamodel\bin\Debug\EntityFramework.xml
+C:\DISK D\POS\POSdatamodel\bin\Debug\EntityFramework.SqlServer.xml
+C:\DISK D\POS\POSdatamodel\obj\Debug\PosDataModel.csprojAssemblyReference.cache
+C:\DISK D\POS\POSdatamodel\obj\Debug\PosDataModel.csproj.CoreCompileInputs.cache
+C:\DISK D\POS\POSdatamodel\obj\Debug\PosDataModel.csproj.CopyComplete
+C:\DISK D\POS\POSdatamodel\obj\Debug\POSdatamodel.dll
+C:\DISK D\POS\POSdatamodel\obj\Debug\POSdatamodel.pdb

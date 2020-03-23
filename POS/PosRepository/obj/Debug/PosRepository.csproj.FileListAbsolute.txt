@@ -1,0 +1,30 @@
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\PosRepository.dll.config
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\PosRepository.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\PosRepository.pdb
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\EntityFramework.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\POSdatamodel.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\POSdatamodel.pdb
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\POSdatamodel.dll.config
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\EntityFramework.xml
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\obj\Debug\PosRepository.csprojAssemblyReference.cache
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\obj\Debug\PosRepository.csproj.CoreCompileInputs.cache
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\obj\Debug\PosRepository.csproj.CopyComplete
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\obj\Debug\PosRepository.dll
+C:\Users\Inas Fathinah S\source\repos\POSweb\PosRepository\obj\Debug\PosRepository.pdb
+C:\DISK D\POS\PosRepository\bin\Debug\PosRepository.dll.config
+C:\DISK D\POS\PosRepository\bin\Debug\PosRepository.dll
+C:\DISK D\POS\PosRepository\bin\Debug\PosRepository.pdb
+C:\DISK D\POS\PosRepository\bin\Debug\EntityFramework.dll
+C:\DISK D\POS\PosRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\DISK D\POS\PosRepository\bin\Debug\POSdatamodel.dll
+C:\DISK D\POS\PosRepository\bin\Debug\POSdatamodel.pdb
+C:\DISK D\POS\PosRepository\bin\Debug\POSdatamodel.dll.config
+C:\DISK D\POS\PosRepository\bin\Debug\EntityFramework.xml
+C:\DISK D\POS\PosRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\DISK D\POS\PosRepository\obj\Debug\PosRepository.csprojAssemblyReference.cache
+C:\DISK D\POS\PosRepository\obj\Debug\PosRepository.csproj.CoreCompileInputs.cache
+C:\DISK D\POS\PosRepository\obj\Debug\PosRepository.csproj.CopyComplete
+C:\DISK D\POS\PosRepository\obj\Debug\PosRepository.dll
+C:\DISK D\POS\PosRepository\obj\Debug\PosRepository.pdb

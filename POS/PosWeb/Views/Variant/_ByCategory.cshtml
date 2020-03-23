@@ -1,0 +1,7 @@
+﻿﻿@Model IEnumerable<PosDataModel.Variant>
+
+    <option value="-1">Select Variant</option>
+    @foreach (var item in Model)
+    {
+        <option value="@item.Id">@item.Initial</option>
+    }
